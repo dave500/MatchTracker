@@ -1,0 +1,11 @@
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerDAL\bin\Debug\MatchTrackerDAL.dll
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerDAL\bin\Debug\MatchTrackerDAL.pdb
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerDAL\bin\Debug\Dapper.dll
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerDAL\bin\Debug\MatchTrackerLib.dll
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerDAL\bin\Debug\MatchTrackerLib.pdb
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerDAL\bin\Debug\Dapper.xml
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerDAL\obj\Debug\MatchTrackerDAL.csprojAssemblyReference.cache
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerDAL\obj\Debug\MatchTrackerDAL.csproj.CoreCompileInputs.cache
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerDAL\obj\Debug\MatchTrackerDAL.csproj.CopyComplete
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerDAL\obj\Debug\MatchTrackerDAL.dll
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerDAL\obj\Debug\MatchTrackerDAL.pdb

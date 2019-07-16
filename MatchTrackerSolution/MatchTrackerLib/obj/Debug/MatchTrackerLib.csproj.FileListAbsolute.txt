@@ -1,0 +1,5 @@
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerLib\bin\Debug\MatchTrackerLib.dll
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerLib\bin\Debug\MatchTrackerLib.pdb
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerLib\obj\Debug\MatchTrackerLib.csproj.CoreCompileInputs.cache
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerLib\obj\Debug\MatchTrackerLib.dll
+C:\Dev\MatchTracker\MatchTrackerSolution\MatchTrackerLib\obj\Debug\MatchTrackerLib.pdb
