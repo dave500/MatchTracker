@@ -151,6 +151,29 @@ namespace MatchTrackerDAL
 
             return matches;
         }
+
+        /// Potentially handy
+        //private SqlConnection CreateSqlServerConnection2()
+        //{
+        //    SqlConnection connection = new SqlConnection();
+
+        //    StringBuilder connectionString = new StringBuilder();
+
+        //    connectionString.Append("Server=");
+        //    connectionString.Append(_sqlServerConnectionParams.Server);
+        //    connectionString.Append(";Database=");
+        //    connectionString.Append(_sqlServerConnectionParams.Database);
+        //    connectionString.Append(";User Id=");
+        //    connectionString.Append(_sqlServerConnectionParams.UserId);
+        //    connectionString.Append(";Password=");
+        //    connectionString.Append(_sqlServerConnectionParams.PassWord);
+
+        //    connection.ConnectionString = connectionString.ToString();
+
+        //    connection.Open();
+
+        //    return connection;
+        //}
     }
 
     

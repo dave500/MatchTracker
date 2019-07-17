@@ -45,6 +45,7 @@
       <HintPath>..\packages\Caliburn.Micro.3.2.0\lib\net45\Caliburn.Micro.Platform.Core.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
     <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Caliburn.Micro.3.2.0\lib\net45\System.Windows.Interactivity.dll</HintPath>
@@ -73,6 +74,7 @@
     </Compile>
     <Compile Include="Helpers\CompetitionHelper.cs" />
     <Compile Include="Models\CompetitionModel.cs" />
+    <Compile Include="Models\Connection.cs" />
     <Compile Include="Models\IMatchTrackerRepo.cs" />
     <Compile Include="Models\MatchModel.cs" />
     <Compile Include="Models\MatchTrackerRepo.cs" />

@@ -21,6 +21,7 @@ namespace MatchTracker.ViewModels
             _matchTrackerRepo = matchTrackerRepo;
             _windowManager = windowManager;
             Competitions = CompetitionHelper.CurrentCompetitons(_matchTrackerRepo.GetCompetitions());
+
          }
 
         private BindableCollection<CompetitionModel> _competitions = new BindableCollection<CompetitionModel>();
